@@ -18,15 +18,9 @@
 
 
 
-# 实验结论
+# 实验结果
 
-攻击方法\准确率  攻击前真实图片准确率  攻击前假图片准确率 攻击后真实图片准确率  攻击后假图片准确率
-
-PGD
-
-FGSM
-
-BIM
+![image](https://github.com/user-attachments/assets/a0b8234f-0451-4094-b039-8c62640d93fb)
 
 
 
