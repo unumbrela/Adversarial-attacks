@@ -1,0 +1,234 @@
+2025-01-14 18:18:52,445 - INFO - 使用设备: cuda
+2025-01-14 18:18:52,446 - INFO - Found 20 classes in real directory.
+2025-01-14 18:18:52,446 - INFO - Loading images from class 'airplane' in real. Total images: 200
+2025-01-14 18:18:52,449 - INFO - Loading images from class 'bicycle' in real. Total images: 200
+2025-01-14 18:18:52,451 - INFO - Loading images from class 'bird' in real. Total images: 200
+2025-01-14 18:18:52,455 - INFO - Loading images from class 'boat' in real. Total images: 200
+2025-01-14 18:18:52,457 - INFO - Loading images from class 'bottle' in real. Total images: 200
+2025-01-14 18:18:52,461 - INFO - Loading images from class 'bus' in real. Total images: 200
+2025-01-14 18:18:52,464 - INFO - Loading images from class 'car' in real. Total images: 200
+2025-01-14 18:18:52,467 - INFO - Loading images from class 'cat' in real. Total images: 200
+2025-01-14 18:18:52,469 - INFO - Loading images from class 'chair' in real. Total images: 200
+2025-01-14 18:18:52,472 - INFO - Loading images from class 'cow' in real. Total images: 200
+2025-01-14 18:18:52,476 - INFO - Loading images from class 'diningtable' in real. Total images: 200
+2025-01-14 18:18:52,479 - INFO - Loading images from class 'dog' in real. Total images: 200
+2025-01-14 18:18:52,482 - INFO - Loading images from class 'horse' in real. Total images: 200
+2025-01-14 18:18:52,485 - INFO - Loading images from class 'motorbike' in real. Total images: 200
+2025-01-14 18:18:52,488 - INFO - Loading images from class 'person' in real. Total images: 200
+2025-01-14 18:18:52,491 - INFO - Loading images from class 'pottedplant' in real. Total images: 200
+2025-01-14 18:18:52,493 - INFO - Loading images from class 'sheep' in real. Total images: 200
+2025-01-14 18:18:52,496 - INFO - Loading images from class 'sofa' in real. Total images: 200
+2025-01-14 18:18:52,499 - INFO - Loading images from class 'train' in real. Total images: 200
+2025-01-14 18:18:52,501 - INFO - Loading images from class 'tvmonitor' in real. Total images: 200
+2025-01-14 18:18:52,504 - INFO - Found 20 classes in fake directory.
+2025-01-14 18:18:52,504 - INFO - Loading images from class 'airplane' in fake. Total images: 200
+2025-01-14 18:18:52,507 - INFO - Loading images from class 'bicycle' in fake. Total images: 200
+2025-01-14 18:18:52,510 - INFO - Loading images from class 'bird' in fake. Total images: 200
+2025-01-14 18:18:52,512 - INFO - Loading images from class 'boat' in fake. Total images: 200
+2025-01-14 18:18:52,515 - INFO - Loading images from class 'bottle' in fake. Total images: 200
+2025-01-14 18:18:52,518 - INFO - Loading images from class 'bus' in fake. Total images: 200
+2025-01-14 18:18:52,520 - INFO - Loading images from class 'car' in fake. Total images: 200
+2025-01-14 18:18:52,523 - INFO - Loading images from class 'cat' in fake. Total images: 200
+2025-01-14 18:18:52,526 - INFO - Loading images from class 'chair' in fake. Total images: 200
+2025-01-14 18:18:52,529 - INFO - Loading images from class 'cow' in fake. Total images: 200
+2025-01-14 18:18:52,532 - INFO - Loading images from class 'diningtable' in fake. Total images: 200
+2025-01-14 18:18:52,535 - INFO - Loading images from class 'dog' in fake. Total images: 200
+2025-01-14 18:18:52,538 - INFO - Loading images from class 'horse' in fake. Total images: 200
+2025-01-14 18:18:52,541 - INFO - Loading images from class 'motorbike' in fake. Total images: 200
+2025-01-14 18:18:52,544 - INFO - Loading images from class 'person' in fake. Total images: 200
+2025-01-14 18:18:52,546 - INFO - Loading images from class 'pottedplant' in fake. Total images: 200
+2025-01-14 18:18:52,550 - INFO - Loading images from class 'sheep' in fake. Total images: 200
+2025-01-14 18:18:52,552 - INFO - Loading images from class 'sofa' in fake. Total images: 200
+2025-01-14 18:18:52,555 - INFO - Loading images from class 'train' in fake. Total images: 200
+2025-01-14 18:18:52,558 - INFO - Loading images from class 'tvmonitor' in fake. Total images: 200
+2025-01-14 18:18:52,560 - INFO - Total real images: 4000
+2025-01-14 18:18:52,560 - INFO - Total fake images: 4000
+2025-01-14 18:18:52,560 - INFO - Total images loaded: 8000
+2025-01-14 18:18:52,560 - INFO - 数据集总大小: 8000
+2025-01-14 18:19:00,507 - INFO - 测试集: real=815, fake=785
+2025-01-14 18:19:00,675 - INFO - 开始训练模型...
+2025-01-14 18:19:30,588 - INFO - Epoch [1/20], Loss: 0.5871, Accuracy: 68.97%
+2025-01-14 18:20:00,350 - INFO - Epoch [2/20], Loss: 0.3655, Accuracy: 83.47%
+2025-01-14 18:20:30,215 - INFO - Epoch [3/20], Loss: 0.2339, Accuracy: 90.05%
+2025-01-14 18:21:00,361 - INFO - Epoch [4/20], Loss: 0.1866, Accuracy: 92.27%
+2025-01-14 18:21:30,425 - INFO - Epoch [5/20], Loss: 0.1489, Accuracy: 94.06%
+2025-01-14 18:22:00,394 - INFO - Epoch [6/20], Loss: 0.1431, Accuracy: 94.11%
+2025-01-14 18:22:30,416 - INFO - Epoch [7/20], Loss: 0.1042, Accuracy: 96.09%
+2025-01-14 18:23:00,609 - INFO - Epoch [8/20], Loss: 0.0559, Accuracy: 98.09%
+2025-01-14 18:23:30,878 - INFO - Epoch [9/20], Loss: 0.0463, Accuracy: 98.39%
+2025-01-14 18:24:00,909 - INFO - Epoch [10/20], Loss: 0.0386, Accuracy: 98.78%
+2025-01-14 18:24:31,077 - INFO - Epoch [11/20], Loss: 0.0346, Accuracy: 99.00%
+2025-01-14 18:25:01,088 - INFO - Epoch [12/20], Loss: 0.0249, Accuracy: 99.16%
+2025-01-14 18:25:31,216 - INFO - Epoch [13/20], Loss: 0.0274, Accuracy: 99.20%
+2025-01-14 18:26:01,547 - INFO - Epoch [14/20], Loss: 0.0267, Accuracy: 99.14%
+2025-01-14 18:26:31,733 - INFO - Epoch [15/20], Loss: 0.0186, Accuracy: 99.47%
+2025-01-14 18:27:02,514 - INFO - Epoch [16/20], Loss: 0.0241, Accuracy: 99.30%
+2025-01-14 18:27:32,546 - INFO - Epoch [17/20], Loss: 0.0187, Accuracy: 99.55%
+2025-01-14 18:28:02,756 - INFO - Epoch [18/20], Loss: 0.0201, Accuracy: 99.41%
+2025-01-14 18:28:33,208 - INFO - Epoch [19/20], Loss: 0.0190, Accuracy: 99.38%
+2025-01-14 18:29:03,413 - INFO - Epoch [20/20], Loss: 0.0226, Accuracy: 99.38%
+2025-01-14 18:29:03,413 - INFO - 训练完成
+2025-01-14 18:29:03,446 - INFO - 模型已保存为 model.pth
+2025-01-14 18:29:09,332 - INFO - 无攻击 - 真实图片准确率: 95.34%, 假图片准确率: 96.43%
+2025-01-14 18:31:03,526 - INFO - DeepFool攻击 - 真实图片准确率: 28.71%, 假图片准确率: 11.59%
+2025-01-14 18:31:03,526 - INFO - 无攻击 - 总体准确率: 95.88%
+2025-01-14 18:31:03,526 - INFO - DeepFool后 - 总体准确率: 20.31%
+2025-01-14 18:33:03,212 - INFO - 使用设备: cuda
+2025-01-14 18:33:03,213 - INFO - Found 20 classes in real directory.
+2025-01-14 18:33:03,213 - INFO - Loading images from class 'airplane' in real. Total images: 200
+2025-01-14 18:33:03,216 - INFO - Loading images from class 'bicycle' in real. Total images: 200
+2025-01-14 18:33:03,219 - INFO - Loading images from class 'bird' in real. Total images: 200
+2025-01-14 18:33:03,222 - INFO - Loading images from class 'boat' in real. Total images: 200
+2025-01-14 18:33:03,225 - INFO - Loading images from class 'bottle' in real. Total images: 200
+2025-01-14 18:33:03,228 - INFO - Loading images from class 'bus' in real. Total images: 200
+2025-01-14 18:33:03,231 - INFO - Loading images from class 'car' in real. Total images: 200
+2025-01-14 18:33:03,233 - INFO - Loading images from class 'cat' in real. Total images: 200
+2025-01-14 18:33:03,236 - INFO - Loading images from class 'chair' in real. Total images: 200
+2025-01-14 18:33:03,239 - INFO - Loading images from class 'cow' in real. Total images: 200
+2025-01-14 18:33:03,241 - INFO - Loading images from class 'diningtable' in real. Total images: 200
+2025-01-14 18:33:03,245 - INFO - Loading images from class 'dog' in real. Total images: 200
+2025-01-14 18:33:03,247 - INFO - Loading images from class 'horse' in real. Total images: 200
+2025-01-14 18:33:03,250 - INFO - Loading images from class 'motorbike' in real. Total images: 200
+2025-01-14 18:33:03,253 - INFO - Loading images from class 'person' in real. Total images: 200
+2025-01-14 18:33:03,255 - INFO - Loading images from class 'pottedplant' in real. Total images: 200
+2025-01-14 18:33:03,258 - INFO - Loading images from class 'sheep' in real. Total images: 200
+2025-01-14 18:33:03,261 - INFO - Loading images from class 'sofa' in real. Total images: 200
+2025-01-14 18:33:03,263 - INFO - Loading images from class 'train' in real. Total images: 200
+2025-01-14 18:33:03,266 - INFO - Loading images from class 'tvmonitor' in real. Total images: 200
+2025-01-14 18:33:03,269 - INFO - Found 20 classes in fake directory.
+2025-01-14 18:33:03,269 - INFO - Loading images from class 'airplane' in fake. Total images: 200
+2025-01-14 18:33:03,272 - INFO - Loading images from class 'bicycle' in fake. Total images: 200
+2025-01-14 18:33:03,275 - INFO - Loading images from class 'bird' in fake. Total images: 200
+2025-01-14 18:33:03,278 - INFO - Loading images from class 'boat' in fake. Total images: 200
+2025-01-14 18:33:03,281 - INFO - Loading images from class 'bottle' in fake. Total images: 200
+2025-01-14 18:33:03,283 - INFO - Loading images from class 'bus' in fake. Total images: 200
+2025-01-14 18:33:03,286 - INFO - Loading images from class 'car' in fake. Total images: 200
+2025-01-14 18:33:03,289 - INFO - Loading images from class 'cat' in fake. Total images: 200
+2025-01-14 18:33:03,292 - INFO - Loading images from class 'chair' in fake. Total images: 200
+2025-01-14 18:33:03,295 - INFO - Loading images from class 'cow' in fake. Total images: 200
+2025-01-14 18:33:03,298 - INFO - Loading images from class 'diningtable' in fake. Total images: 200
+2025-01-14 18:33:03,301 - INFO - Loading images from class 'dog' in fake. Total images: 200
+2025-01-14 18:33:03,304 - INFO - Loading images from class 'horse' in fake. Total images: 200
+2025-01-14 18:33:03,306 - INFO - Loading images from class 'motorbike' in fake. Total images: 200
+2025-01-14 18:33:03,309 - INFO - Loading images from class 'person' in fake. Total images: 200
+2025-01-14 18:33:03,312 - INFO - Loading images from class 'pottedplant' in fake. Total images: 200
+2025-01-14 18:33:03,315 - INFO - Loading images from class 'sheep' in fake. Total images: 200
+2025-01-14 18:33:03,318 - INFO - Loading images from class 'sofa' in fake. Total images: 200
+2025-01-14 18:33:03,321 - INFO - Loading images from class 'train' in fake. Total images: 200
+2025-01-14 18:33:03,324 - INFO - Loading images from class 'tvmonitor' in fake. Total images: 200
+2025-01-14 18:33:03,326 - INFO - Total real images: 4000
+2025-01-14 18:33:03,326 - INFO - Total fake images: 4000
+2025-01-14 18:33:03,326 - INFO - Total images loaded: 8000
+2025-01-14 18:33:03,326 - INFO - 数据集总大小: 8000
+2025-01-14 18:33:11,405 - INFO - 测试集: real=760, fake=840
+2025-01-14 18:33:11,598 - INFO - 成功加载已有模型
+2025-01-14 18:33:16,926 - INFO - 无攻击 - 真实图片准确率: 98.42%, 假图片准确率: 99.40%
+2025-01-14 18:35:06,622 - INFO - DeepFool攻击 - 真实图片准确率: 31.58%, 假图片准确率: 12.26%
+2025-01-14 18:35:06,622 - INFO - 无攻击 - 总体准确率: 98.94%
+2025-01-14 18:35:06,622 - INFO - DeepFool后 - 总体准确率: 21.44%
+2025-01-14 18:35:34,294 - INFO - 使用设备: cuda
+2025-01-14 18:35:34,294 - INFO - Found 20 classes in real directory.
+2025-01-14 18:35:34,294 - INFO - Loading images from class 'airplane' in real. Total images: 200
+2025-01-14 18:35:34,297 - INFO - Loading images from class 'bicycle' in real. Total images: 200
+2025-01-14 18:35:34,300 - INFO - Loading images from class 'bird' in real. Total images: 200
+2025-01-14 18:35:34,303 - INFO - Loading images from class 'boat' in real. Total images: 200
+2025-01-14 18:35:34,306 - INFO - Loading images from class 'bottle' in real. Total images: 200
+2025-01-14 18:35:34,309 - INFO - Loading images from class 'bus' in real. Total images: 200
+2025-01-14 18:35:34,312 - INFO - Loading images from class 'car' in real. Total images: 200
+2025-01-14 18:35:34,314 - INFO - Loading images from class 'cat' in real. Total images: 200
+2025-01-14 18:35:34,317 - INFO - Loading images from class 'chair' in real. Total images: 200
+2025-01-14 18:35:34,320 - INFO - Loading images from class 'cow' in real. Total images: 200
+2025-01-14 18:35:34,323 - INFO - Loading images from class 'diningtable' in real. Total images: 200
+2025-01-14 18:35:34,325 - INFO - Loading images from class 'dog' in real. Total images: 200
+2025-01-14 18:35:34,328 - INFO - Loading images from class 'horse' in real. Total images: 200
+2025-01-14 18:35:34,331 - INFO - Loading images from class 'motorbike' in real. Total images: 200
+2025-01-14 18:35:34,333 - INFO - Loading images from class 'person' in real. Total images: 200
+2025-01-14 18:35:34,336 - INFO - Loading images from class 'pottedplant' in real. Total images: 200
+2025-01-14 18:35:34,339 - INFO - Loading images from class 'sheep' in real. Total images: 200
+2025-01-14 18:35:34,342 - INFO - Loading images from class 'sofa' in real. Total images: 200
+2025-01-14 18:35:34,345 - INFO - Loading images from class 'train' in real. Total images: 200
+2025-01-14 18:35:34,348 - INFO - Loading images from class 'tvmonitor' in real. Total images: 200
+2025-01-14 18:35:34,351 - INFO - Found 20 classes in fake directory.
+2025-01-14 18:35:34,351 - INFO - Loading images from class 'airplane' in fake. Total images: 200
+2025-01-14 18:35:34,354 - INFO - Loading images from class 'bicycle' in fake. Total images: 200
+2025-01-14 18:35:34,357 - INFO - Loading images from class 'bird' in fake. Total images: 200
+2025-01-14 18:35:34,360 - INFO - Loading images from class 'boat' in fake. Total images: 200
+2025-01-14 18:35:34,363 - INFO - Loading images from class 'bottle' in fake. Total images: 200
+2025-01-14 18:35:34,367 - INFO - Loading images from class 'bus' in fake. Total images: 200
+2025-01-14 18:35:34,370 - INFO - Loading images from class 'car' in fake. Total images: 200
+2025-01-14 18:35:34,373 - INFO - Loading images from class 'cat' in fake. Total images: 200
+2025-01-14 18:35:34,376 - INFO - Loading images from class 'chair' in fake. Total images: 200
+2025-01-14 18:35:34,379 - INFO - Loading images from class 'cow' in fake. Total images: 200
+2025-01-14 18:35:34,382 - INFO - Loading images from class 'diningtable' in fake. Total images: 200
+2025-01-14 18:35:34,385 - INFO - Loading images from class 'dog' in fake. Total images: 200
+2025-01-14 18:35:34,388 - INFO - Loading images from class 'horse' in fake. Total images: 200
+2025-01-14 18:35:34,390 - INFO - Loading images from class 'motorbike' in fake. Total images: 200
+2025-01-14 18:35:34,394 - INFO - Loading images from class 'person' in fake. Total images: 200
+2025-01-14 18:35:34,396 - INFO - Loading images from class 'pottedplant' in fake. Total images: 200
+2025-01-14 18:35:34,399 - INFO - Loading images from class 'sheep' in fake. Total images: 200
+2025-01-14 18:35:34,402 - INFO - Loading images from class 'sofa' in fake. Total images: 200
+2025-01-14 18:35:34,405 - INFO - Loading images from class 'train' in fake. Total images: 200
+2025-01-14 18:35:34,408 - INFO - Loading images from class 'tvmonitor' in fake. Total images: 200
+2025-01-14 18:35:34,411 - INFO - Total real images: 4000
+2025-01-14 18:35:34,411 - INFO - Total fake images: 4000
+2025-01-14 18:35:34,411 - INFO - Total images loaded: 8000
+2025-01-14 18:35:34,411 - INFO - 数据集总大小: 8000
+2025-01-14 18:35:42,594 - INFO - 测试集: real=775, fake=825
+2025-01-14 18:35:42,775 - INFO - 成功加载已有模型
+2025-01-14 18:35:48,278 - INFO - 无攻击 - 真实图片准确率: 98.45%, 假图片准确率: 98.79%
+2025-01-14 18:38:17,983 - INFO - DeepFool攻击 - 真实图片准确率: 56.65%, 假图片准确率: 21.09%
+2025-01-14 18:38:17,983 - INFO - 无攻击 - 总体准确率: 98.62%
+2025-01-14 18:38:17,983 - INFO - DeepFool后 - 总体准确率: 38.31%
+2025-01-14 18:38:32,965 - INFO - 使用设备: cuda
+2025-01-14 18:38:32,965 - INFO - Found 20 classes in real directory.
+2025-01-14 18:38:32,965 - INFO - Loading images from class 'airplane' in real. Total images: 200
+2025-01-14 18:38:32,968 - INFO - Loading images from class 'bicycle' in real. Total images: 200
+2025-01-14 18:38:32,971 - INFO - Loading images from class 'bird' in real. Total images: 200
+2025-01-14 18:38:32,974 - INFO - Loading images from class 'boat' in real. Total images: 200
+2025-01-14 18:38:32,977 - INFO - Loading images from class 'bottle' in real. Total images: 200
+2025-01-14 18:38:32,980 - INFO - Loading images from class 'bus' in real. Total images: 200
+2025-01-14 18:38:32,983 - INFO - Loading images from class 'car' in real. Total images: 200
+2025-01-14 18:38:32,986 - INFO - Loading images from class 'cat' in real. Total images: 200
+2025-01-14 18:38:32,989 - INFO - Loading images from class 'chair' in real. Total images: 200
+2025-01-14 18:38:32,992 - INFO - Loading images from class 'cow' in real. Total images: 200
+2025-01-14 18:38:32,995 - INFO - Loading images from class 'diningtable' in real. Total images: 200
+2025-01-14 18:38:32,999 - INFO - Loading images from class 'dog' in real. Total images: 200
+2025-01-14 18:38:33,002 - INFO - Loading images from class 'horse' in real. Total images: 200
+2025-01-14 18:38:33,005 - INFO - Loading images from class 'motorbike' in real. Total images: 200
+2025-01-14 18:38:33,008 - INFO - Loading images from class 'person' in real. Total images: 200
+2025-01-14 18:38:33,010 - INFO - Loading images from class 'pottedplant' in real. Total images: 200
+2025-01-14 18:38:33,013 - INFO - Loading images from class 'sheep' in real. Total images: 200
+2025-01-14 18:38:33,017 - INFO - Loading images from class 'sofa' in real. Total images: 200
+2025-01-14 18:38:33,019 - INFO - Loading images from class 'train' in real. Total images: 200
+2025-01-14 18:38:33,022 - INFO - Loading images from class 'tvmonitor' in real. Total images: 200
+2025-01-14 18:38:33,025 - INFO - Found 20 classes in fake directory.
+2025-01-14 18:38:33,025 - INFO - Loading images from class 'airplane' in fake. Total images: 200
+2025-01-14 18:38:33,028 - INFO - Loading images from class 'bicycle' in fake. Total images: 200
+2025-01-14 18:38:33,031 - INFO - Loading images from class 'bird' in fake. Total images: 200
+2025-01-14 18:38:33,034 - INFO - Loading images from class 'boat' in fake. Total images: 200
+2025-01-14 18:38:33,037 - INFO - Loading images from class 'bottle' in fake. Total images: 200
+2025-01-14 18:38:33,040 - INFO - Loading images from class 'bus' in fake. Total images: 200
+2025-01-14 18:38:33,043 - INFO - Loading images from class 'car' in fake. Total images: 200
+2025-01-14 18:38:33,046 - INFO - Loading images from class 'cat' in fake. Total images: 200
+2025-01-14 18:38:33,049 - INFO - Loading images from class 'chair' in fake. Total images: 200
+2025-01-14 18:38:33,052 - INFO - Loading images from class 'cow' in fake. Total images: 200
+2025-01-14 18:38:33,055 - INFO - Loading images from class 'diningtable' in fake. Total images: 200
+2025-01-14 18:38:33,058 - INFO - Loading images from class 'dog' in fake. Total images: 200
+2025-01-14 18:38:33,061 - INFO - Loading images from class 'horse' in fake. Total images: 200
+2025-01-14 18:38:33,064 - INFO - Loading images from class 'motorbike' in fake. Total images: 200
+2025-01-14 18:38:33,067 - INFO - Loading images from class 'person' in fake. Total images: 200
+2025-01-14 18:38:33,070 - INFO - Loading images from class 'pottedplant' in fake. Total images: 200
+2025-01-14 18:38:33,073 - INFO - Loading images from class 'sheep' in fake. Total images: 200
+2025-01-14 18:38:33,076 - INFO - Loading images from class 'sofa' in fake. Total images: 200
+2025-01-14 18:38:33,078 - INFO - Loading images from class 'train' in fake. Total images: 200
+2025-01-14 18:38:33,081 - INFO - Loading images from class 'tvmonitor' in fake. Total images: 200
+2025-01-14 18:38:33,084 - INFO - Total real images: 4000
+2025-01-14 18:38:33,084 - INFO - Total fake images: 4000
+2025-01-14 18:38:33,084 - INFO - Total images loaded: 8000
+2025-01-14 18:38:33,084 - INFO - 数据集总大小: 8000
+2025-01-14 18:38:41,382 - INFO - 测试集: real=772, fake=828
+2025-01-14 18:38:41,569 - INFO - 成功加载已有模型
+2025-01-14 18:38:48,308 - INFO - 无攻击 - 真实图片准确率: 98.58%, 假图片准确率: 99.28%
+2025-01-14 18:40:42,106 - INFO - DeepFool攻击 - 真实图片准确率: 82.64%, 假图片准确率: 31.16%
+2025-01-14 18:40:42,106 - INFO - 无攻击 - 总体准确率: 98.94%
+2025-01-14 18:40:42,106 - INFO - DeepFool后 - 总体准确率: 56.00%

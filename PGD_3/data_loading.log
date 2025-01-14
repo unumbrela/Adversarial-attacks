@@ -1,0 +1,76 @@
+2025-01-13 14:20:23,081 - INFO - 使用设备: cuda
+2025-01-13 14:20:23,081 - INFO - Found 20 classes in real directory.
+2025-01-13 14:20:23,082 - INFO - Loading images from class 'airplane' in real. Total images: 200
+2025-01-13 14:20:23,819 - INFO - Loading images from class 'bicycle' in real. Total images: 200
+2025-01-13 14:20:24,590 - INFO - Loading images from class 'bird' in real. Total images: 200
+2025-01-13 14:20:25,251 - INFO - Loading images from class 'boat' in real. Total images: 200
+2025-01-13 14:20:25,882 - INFO - Loading images from class 'bottle' in real. Total images: 200
+2025-01-13 14:20:26,530 - INFO - Loading images from class 'bus' in real. Total images: 200
+2025-01-13 14:20:27,193 - INFO - Loading images from class 'car' in real. Total images: 200
+2025-01-13 14:20:27,863 - INFO - Loading images from class 'cat' in real. Total images: 200
+2025-01-13 14:20:28,556 - INFO - Loading images from class 'chair' in real. Total images: 200
+2025-01-13 14:20:29,247 - INFO - Loading images from class 'cow' in real. Total images: 200
+2025-01-13 14:20:29,948 - INFO - Loading images from class 'diningtable' in real. Total images: 200
+2025-01-13 14:20:30,651 - INFO - Loading images from class 'dog' in real. Total images: 200
+2025-01-13 14:20:31,310 - INFO - Loading images from class 'horse' in real. Total images: 200
+2025-01-13 14:20:31,994 - INFO - Loading images from class 'motorbike' in real. Total images: 200
+2025-01-13 14:20:32,667 - INFO - Loading images from class 'person' in real. Total images: 200
+2025-01-13 14:20:33,380 - INFO - Loading images from class 'pottedplant' in real. Total images: 200
+2025-01-13 14:20:34,034 - INFO - Loading images from class 'sheep' in real. Total images: 200
+2025-01-13 14:20:34,684 - INFO - Loading images from class 'sofa' in real. Total images: 200
+2025-01-13 14:20:35,723 - INFO - Loading images from class 'train' in real. Total images: 200
+2025-01-13 14:20:38,654 - INFO - Loading images from class 'tvmonitor' in real. Total images: 200
+2025-01-13 14:20:40,080 - INFO - Found 20 classes in fake directory.
+2025-01-13 14:20:40,081 - INFO - Loading images from class 'airplane' in fake. Total images: 200
+2025-01-13 14:20:42,730 - INFO - Loading images from class 'bicycle' in fake. Total images: 200
+2025-01-13 14:20:43,519 - INFO - Loading images from class 'bird' in fake. Total images: 200
+2025-01-13 14:20:44,175 - INFO - Loading images from class 'boat' in fake. Total images: 200
+2025-01-13 14:20:44,823 - INFO - Loading images from class 'bottle' in fake. Total images: 200
+2025-01-13 14:20:45,506 - INFO - Loading images from class 'bus' in fake. Total images: 200
+2025-01-13 14:20:46,180 - INFO - Loading images from class 'car' in fake. Total images: 200
+2025-01-13 14:20:46,860 - INFO - Loading images from class 'cat' in fake. Total images: 200
+2025-01-13 14:20:47,566 - INFO - Loading images from class 'chair' in fake. Total images: 200
+2025-01-13 14:20:48,203 - INFO - Loading images from class 'cow' in fake. Total images: 200
+2025-01-13 14:20:48,890 - INFO - Loading images from class 'diningtable' in fake. Total images: 200
+2025-01-13 14:20:49,567 - INFO - Loading images from class 'dog' in fake. Total images: 200
+2025-01-13 14:20:50,292 - INFO - Loading images from class 'horse' in fake. Total images: 200
+2025-01-13 14:20:50,957 - INFO - Loading images from class 'motorbike' in fake. Total images: 200
+2025-01-13 14:20:51,667 - INFO - Loading images from class 'person' in fake. Total images: 200
+2025-01-13 14:20:52,360 - INFO - Loading images from class 'pottedplant' in fake. Total images: 200
+2025-01-13 14:20:53,067 - INFO - Loading images from class 'sheep' in fake. Total images: 200
+2025-01-13 14:20:53,718 - INFO - Loading images from class 'sofa' in fake. Total images: 200
+2025-01-13 14:20:54,364 - INFO - Loading images from class 'train' in fake. Total images: 200
+2025-01-13 14:20:55,022 - INFO - Loading images from class 'tvmonitor' in fake. Total images: 200
+2025-01-13 14:20:55,705 - INFO - Total real images: 4000
+2025-01-13 14:20:55,705 - INFO - Total fake images: 4000
+2025-01-13 14:20:55,705 - INFO - Total images loaded: 8000
+2025-01-13 14:20:55,705 - INFO - 数据集总大小: 8000
+2025-01-13 14:20:55,705 - INFO - 训练集大小: 6400, 测试集大小: 1600
+2025-01-13 14:21:04,948 - INFO - 测试集中的真实图片数量: 809, 假图片数量: 791
+2025-01-13 14:21:05,156 - INFO - 未找到模型，开始训练模型
+2025-01-13 14:21:52,426 - INFO - Epoch [1/20], Loss: 0.5744, Accuracy: 69.62%
+2025-01-13 14:22:39,423 - INFO - Epoch [2/20], Loss: 0.3396, Accuracy: 84.89%
+2025-01-13 14:23:26,627 - INFO - Epoch [3/20], Loss: 0.2443, Accuracy: 89.89%
+2025-01-13 14:24:13,856 - INFO - Epoch [4/20], Loss: 0.1851, Accuracy: 92.66%
+2025-01-13 14:25:02,035 - INFO - Epoch [5/20], Loss: 0.1604, Accuracy: 93.69%
+2025-01-13 14:25:51,416 - INFO - Epoch [6/20], Loss: 0.1329, Accuracy: 95.00%
+2025-01-13 14:26:40,320 - INFO - Epoch [7/20], Loss: 0.1183, Accuracy: 95.77%
+2025-01-13 14:27:28,984 - INFO - Epoch [8/20], Loss: 0.0655, Accuracy: 97.80%
+2025-01-13 14:28:16,734 - INFO - Epoch [9/20], Loss: 0.0553, Accuracy: 98.31%
+2025-01-13 14:29:04,489 - INFO - Epoch [10/20], Loss: 0.0384, Accuracy: 98.88%
+2025-01-13 14:29:52,257 - INFO - Epoch [11/20], Loss: 0.0344, Accuracy: 98.81%
+2025-01-13 14:30:39,755 - INFO - Epoch [12/20], Loss: 0.0255, Accuracy: 99.34%
+2025-01-13 14:31:27,321 - INFO - Epoch [13/20], Loss: 0.0267, Accuracy: 99.17%
+2025-01-13 14:32:14,978 - INFO - Epoch [14/20], Loss: 0.0291, Accuracy: 99.17%
+2025-01-13 14:33:02,556 - INFO - Epoch [15/20], Loss: 0.0302, Accuracy: 99.08%
+2025-01-13 14:33:49,896 - INFO - Epoch [16/20], Loss: 0.0221, Accuracy: 99.47%
+2025-01-13 14:34:37,560 - INFO - Epoch [17/20], Loss: 0.0258, Accuracy: 99.16%
+2025-01-13 14:35:25,020 - INFO - Epoch [18/20], Loss: 0.0241, Accuracy: 99.23%
+2025-01-13 14:36:12,439 - INFO - Epoch [19/20], Loss: 0.0257, Accuracy: 99.38%
+2025-01-13 14:36:59,880 - INFO - Epoch [20/20], Loss: 0.0175, Accuracy: 99.52%
+2025-01-13 14:36:59,880 - INFO - 训练完成
+2025-01-13 14:36:59,916 - INFO - 模型已保存为 model.pth
+2025-01-13 14:37:06,903 - INFO - 对抗攻击前 - 真实图片准确率: 97.40%, 假图片准确率: 96.46%
+2025-01-13 14:37:59,813 - INFO - 对抗攻击后 - 真实图片准确率: 76.76%, 假图片准确率: 6.70%
+2025-01-13 14:37:59,813 - INFO - 对抗攻击前 - 总体准确率: 96.94%
+2025-01-13 14:37:59,814 - INFO - 对抗攻击后 - 总体准确率: 42.12%
